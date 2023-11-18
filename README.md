@@ -2,7 +2,7 @@
 <h1 align="center">Hello, World! 👋 I'm a <a href="https://keylaconde.github.io/my-portfolio.io/">Keyla Conde || KeyCoder</a></h1>
 <img src="https://media.licdn.com/dms/image/D4E16AQGNEzoYL5vjyQ/profile-displaybackgroundimage-shrink_350_1400/0/1697864152268?e=1705536000&v=beta&t=s8jSeqrmnIiAplkBjISzWhWGC18sTJtJR_FIb-rPo-A">
 
-### Sobre mí
+### About me
 
 - 🔭 I’m currently working on my career as Frontend Developer...
 - - 👯 I’m looking to collaborate on your project.
