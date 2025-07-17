@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, World! 👋 I'm a <a href="https://keylaconde.github.io/my-portfolio.io/">Keyla Conde || KeyCoder</a></h1>
-<img src="https://media.licdn.com/dms/image/D4E16AQGNEzoYL5vjyQ/profile-displaybackgroundimage-shrink_350_1400/0/1697864152268?e=1705536000&v=beta&t=s8jSeqrmnIiAplkBjISzWhWGC18sTJtJR_FIb-rPo-A">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHxOTcUlwq2zQ/profile-displaybackgroundimage-shrink_350_1400/B4EZftXCMwHgAY-/0/1752033929805?e=1758153600&v=beta&t=u9g-XoM_GfUrS6vWXmFzkrAeisnJQN5XlOZPHtaUbnE">
 
 ### About me
 
